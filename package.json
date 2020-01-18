@@ -1,0 +1,21 @@
+{
+  "name": "RedHatOpenShiftDemo",
+  "version": "1.0.0",
+  "description": "Deploying a node.js hello world case on Red Hat OpenShift",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orhanhub/RedHatOpenShiftDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orhanhub/RedHatOpenShiftDemo/issues"
+  },
+  "homepage": "https://github.com/orhanhub/RedHatOpenShiftDemo#readme"
+}
